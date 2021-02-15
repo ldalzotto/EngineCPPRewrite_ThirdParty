@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outFile": "./asset/generated/client.js",
+        "allowJs": true,
+        "sourceMap": true,
+        "watch": true
+    },
+    "files": ["./src/client.ts"],
+    "exclude": ["./asset/generated"]
+}
